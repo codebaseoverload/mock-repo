@@ -1,8 +1,8 @@
 codebase - this is f1
 
-<<<<<<< HEAD
 edward - added this line at 3
-=======
 
 codebase - adding this line
->>>>>>> cc3f9c5b387354305188308b97cf87df1233f242
+
+
+edward - adding this line after conflict merge
